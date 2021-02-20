@@ -5,6 +5,7 @@
 [dataset/harga_pangan_mingguan_bandung.csv](dataset/harga_pangan_mingguan_bandung.csv)
 
 ## Deskripsi
+- **tanggal**  : dd-mm-yyy
 - **beras** : 
 \
 harga rata - rata dari:
