@@ -1,7 +1,7 @@
 # Bandung Food Prices Dataset
 
 ## Dataset
-[dataset/weekly.csv](dataset/weekly.csv)
+[dataset/weekly.csv](dataset/weekly.csv) \
 [dataset/daily.csv](dataset/daily.csv)
 
 ## Descriptions
