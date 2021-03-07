@@ -1,11 +1,11 @@
-# Dataset Harga Pangan Mingguan Kota Bandung
-
+# Bandung Food Prices Dataset
 
 ## Dataset
-[dataset/harga_pangan_mingguan_bandung.csv](dataset/harga_pangan_mingguan_bandung.csv)
+[dataset/weekly.csv](dataset/weekly.csv)
+[dataset/daily.csv](dataset/daily.csv)
 
-## Deskripsi
-- **tanggal**  : dd-mm-yyy
+## Descriptions
+- **tanggal**  : dd-mm-yyyy
 - **beras** : 
 \
 harga rata - rata dari:
@@ -47,5 +47,5 @@ harga rata - rata dari:
 - **gula_pasir_premium** : harga gula pasir premium
 - **gula_pasir_lokal**: harga gula pasir lokal
 
-## Sumber
-Data diambil dari website [Pusat Informasi Harga Pangan Strategis Nasional](www.hargapangan.id) pada tanggal 1 Februari 2021 
+## Source
+Data diambil dari website [Pusat Informasi Harga Pangan Strategis Nasional](www.hargapangan.id) 
